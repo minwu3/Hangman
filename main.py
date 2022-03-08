@@ -1,8 +1,7 @@
-#Step 5
-
 import random
 import hangman_art
 import hangman_words
+# make every guess clear
 from replit import clear
 
 
